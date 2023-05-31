@@ -1,0 +1,122 @@
+ID,People,Event,What,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/055,Julia,Julia suffered from the smell of Indian cigarettes,smell of Indian cigarettes,smell,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/064,Julia,Julia locked the bedroom,Julia’s bedroom,lock,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/070,Julia,Julia opened the key on the day Julia died,Julia’s bedroom,open,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/076,Julia,Julia shook her limbs on the day Julia died,limbs,tremble,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/078,Julia,"On the day Julia died, Julia pointed to Roylott’s bedroom",Roylott’s bedroom,point,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/088,Julia,"On the day Julia died, Julia had one match cinders.",one match cinders,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/089,Julia,"On the day Julia died, Julia had a box of matches.",match box,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/104,Julia,Julia's body has no scar.,scar,notHave,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/146,Julia,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/286,Julia,Julia could not move the bed.,bed,cannotMove,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/369,Julia,Julia said a speckled band.,speckled band,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/140,Holmes,Holmes did not respond to Roylott's question.,question of Roylott,notRespond,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/142,Holmes,Holmes has seen the will of Helen's mother.,will of mother of Helen,read,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/143,Holmes,Holmes calculated the current price of the invested capital involved.,price of asset of mother of Helen,calculate,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/150,Holmes,Holmes and Watson got off the coach.,coach,getOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/171,Holmes,Holmes investigates the window of the mansion from the outside.,window of mansion of Roylott,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/189,Holmes,Holmes carefully observed the vacant window.,window of Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/190,Holmes,Holmes failed to forcibly open the fortress from the outside.,shutter,cannotOpen,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/208,Holmes,Holmes observed every corner of the bedroom,Julia’s bedroom,lookAround,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/213,Holmes,Holmes confirmed the floor.,floor of Julia’s bedroom,confirm,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/214,Holmes,Holmes tugged as hard as he could on the pull of the doorbell,pull of the doorbell,pull,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/219,Holmes,Holmes pulls the pull of the doorbell.,pull of the doorbell,pull,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/232,Holmes,Holmes investigate Roylott's bedroom.,Roylott’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/241,Holmes,Holmes was analyzing them with great interest.,elbow chair,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/241,Holmes,Holmes was analyzing them with great interest.,simple chair,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/241,Holmes,Holmes was analyzing them with great interest.,round table,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/241,Holmes,Holmes was analyzing them with great interest.,safe,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/242,Holmes,Holmes hit the safe lightly.,safe,hit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/244,Holmes,Holmes lowered a small dish containing milk from the top of the safe.,small dish,takeDown,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/251,Holmes,Holmes considered the milk of a small dish,small dish,consider,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/252,Holmes,Holmes carefully investigated the back part of the chair,back part of chair,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/253,Holmes,Holmes found a small dog whip.,dog whip,find,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/256,Holmes,Holmes suspected a small dog whip.,dog whip,suspect,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/257,Holmes,Holmes has made a plan.,plan,make,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/270,Holmes,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/271,Holmes,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/274,Holmes,Holmes had anticipated that there were ventilation holes before coming to Stoke Moran.,VentilationHole,forecast,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/291,Holmes,Holmes and Watson kept quiet.,quiet,keep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/292,Holmes,Holmes and Watson turn off the lights.,lamp,turnOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/301,Holmes,Holmes put a thin long cane on the bed.,cane,put,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/302,Holmes,Holmes placed a match box and a candle candle in front of a thin long cane.,match box,put,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/302,Holmes,Holmes placed a match box and a candle candle in front of a thin long cane.,candle,put,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/303,Holmes,"After that, Holmes and Watson turn off the lamp.",lamp,turnOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/305,Holmes,Holmes and Watson heard barking from the outside.,cry,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/307,Holmes,Holmes and Watson hear the sound of the church bell in the distance.,church bell,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/308,Holmes,"From the ventilator, light can be seen only for a moment.",light,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/310,Holmes,"Then the oil burns, and there is a strong smell that the metal is heated.",smell of oil,smell,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/317,Holmes,"Suddenly, Holmes and Watson listen to a faint sound.",sound,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/323,Holmes,Holmes fires a match.,match,fire,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/324,Holmes,Holmes beat the rope with a cane.,rope of bell,hit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/327,Holmes,"At the moment Holmes rubbed the match, Holmes and Watson heard a low and clear whistle.",whistle,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/332,Holmes,"After that, Holmes looks at the ventilator.",VentilationHole,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/333,Holmes,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/352,Holmes,The whip was found in this bedroom during the daytime.,dog whip,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/359,Holmes,Holmes said 'a speckled band'.,speckled band,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/362,Holmes,Holmes said 'a poisonous ponder'.,poisonous snake,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/366,Holmes,Holmes had Roylott’s whip,dog whip of Roylott,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/367,Holmes,Holmes locked the snake in the safe with a whip.,snake,putInto,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/371,Holmes,Holmes noted a ventilation hole.,VentilationHole,focus,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/395,Holmes,Holmes heard the sound of a snake.,sound of snake,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/396,Holmes,Holmes hit the snake.,snake,hit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/016,Roylott,Roylott takes the money,money,gain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/027,Roylott,Roylott likes Indian animals,Indian animal,like,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/028,Roylott,Roylott buys an animal from India,Indian animal,buy,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/029,Roylott,Roylott keeps a leopard,leopard,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/030,Roylott,Roylott keeps baboons,baboon,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/038,Roylott,Roylott is not against the engagement,engagement of Julia,notOppose,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/084,Roylott,"On the day Julia died, Roylott gave Julia a drink of brandy",brandy,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/139,Roylott,Roylott asked Holmes what Helen discussed.,story of Helen,ask,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/147,Roylott,Roylott will lose money,money,lose,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/294,Roylott,"When sound leaks from the ventilator, it may be noticed.",Holmes,notice,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/354,Roylott,Roylott's eyes were strongly open.,eye,open,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/355,Roylott,Roylott was looking at the corner of the ceiling,corner of ceiling,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/377,Roylott,Roylott ordered animals from India.,snake,buy,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/386,Roylott,A whistle called snakes back.,snake,callBack,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/387,Roylott,Roylott gave milk to the snake.,milk,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/391,Roylott,Roylott placed the snake in the safe.,snake,put,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/392,Roylott,Roylott closed the safe.,safe,close,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/004,Helen,Helen has no money,money,notHave,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/056,Helen,Helen talks about Julia and her wedding,wedding ceremony of Julia,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/067,Helen,Julia's voice was heard on  the day Julia died,voice of Julia,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/068,Helen,Helen heard whistle in the corridor on the day Julia died,whistle,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/069,Helen,Helen heard the metal sound on the day Julia died,metallic sound,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/074,Helen,Helen supported Julia on the day Julia died,Julia,support,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/080,Helen,Helen called Roylott on the day Julia died,Roylott,call,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/118,Helen,Last night at midnight Helen heard a low whistle.,whistle,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/120,Helen,Helen turned on the lamp.,lamp,turnOn,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/121,Helen,Nothing was found in Julia’s bedroom.,something,cannotFind,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/122,Helen,Helen has changed clothes.,clothes,wear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/124,Helen,Helen asked for a motorcycle at the Crown Inn.,two-wheeled coach,call,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/146,Helen,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/187,Helen,Helen closed the gates,shutter,close,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/188,Helen,Helen locked the bedroom.,Julia’s bedroom,lock,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/289,Helen,Helen sent a signal to Holmes at eleven o'clock.,signal,send,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/394,Helen,Helen heard the metal sounds.,metallic sound,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/150,Watson,Holmes and Watson got off the coach.,coach,getOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/270,Watson,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/271,Watson,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/291,Watson,Holmes and Watson kept quiet.,quiet,keep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/292,Watson,Holmes and Watson turn off the lights.,lamp,turnOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/297,Watson,Watson prepares a handgun for use anytime.,handgun,prepare,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/300,Watson,Watson gently places the handgun in the corner of the desk.,handgun,put,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/303,Watson,"After that, Holmes and Watson turn off the lamp.",lamp,turnOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/305,Watson,Holmes and Watson heard barking from the outside.,cry,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/307,Watson,Holmes and Watson hear the sound of the church bell in the distance.,church bell,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/308,Watson,"From the ventilator, light can be seen only for a moment.",light,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/310,Watson,"Then the oil burns, and there is a strong smell that the metal is heated.",smell of oil,smell,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/317,Watson,"Suddenly, Holmes and Watson listen to a faint sound.",sound,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/327,Watson,"At the moment Holmes rubbed the match, Holmes and Watson heard a low and clear whistle.",whistle,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/328,Watson,Watson did not know what Holmes was beating.,snake,cannotSee,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/333,Watson,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/340,Watson,Watson has a handgun.,handgun,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/051,man,The garden can be viewed from the bedroom,garden of Roylott,canView,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/011,sister,Helen and Julia are sisters,Helen,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/011,sister,Helen and Julia are sisters,Julia,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/035,sister,Helen and Julia are sisters.,Helen,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/035,sister,Helen and Julia are sisters.,Julia,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/097,coroner,The coroner examined the walls of Julia’s bedroom by hitting them,four walls of Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/099,coroner,The coroner examined floor of Julia’s bedroom specifically,floor of Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/105,coroner,There was no poison in Julia's body.,poison,cannotFind,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/382,coroner,The inspector does not find the snake poison.,poison of snake,notNotice,Situation
