@@ -1,0 +1,22 @@
+ID,People,Event,Whom,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/056,Helen,Helen talks about Julia and her wedding,Julia,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/081,Helen,"On the day Julia died, Helen met Roylott in the corridor",Roylott,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/094,Helen,Helen testified that the door was locked from inside Julia’s bedroom,coroner,testify,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/289,Helen,Helen sent a signal to Holmes at eleven o'clock.,Holmes,send,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/131,Holmes,Holmes suggested Helen to go to Stoke Moran today.,Helen,propose,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/140,Holmes,Holmes did not respond to Roylott's question.,Roylott,notRespond,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/152,Holmes,Holmes met with Helen as promised.,Helen,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/155,Holmes,Holmes explained to Helen.,Helen,explain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/258,Holmes,Holmes ordered Helen.,Helen,instruct,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/010,Roylott,Roylott married Helen's mother in India,mother of Helen,marry,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/021,Roylott,Roylott fights with the villager,villager of Stoke Moran,fight,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/084,Roylott,"On the day Julia died, Roylott gave Julia a drink of brandy",Julia,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/139,Roylott,Roylott asked Holmes what Helen discussed.,Holmes,ask,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/138,Roylott,Roylott traced Helen.,Helen,trace,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/387,Roylott,Roylott gave milk to the snake.,snake,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/036,Julia,Julia gets acquainted with Major Navy two years ago at Harrow,lieutenant commander,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/037,Julia,Julia was engaged to Major Navy,lieutenant commander,engage,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/015,mother of sister,Helen's mother yielded money to Roylott,Roylott,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/090,coroner,The investigator heavily inspected Roylott,Roylott,inspect,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/110,Percy Armitage,"A month ago, Parsi Armitage asked Helen to marry him.",Helen,propose,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/152,Watson,Holmes met with Helen as promised.,Helen,meet,Situation

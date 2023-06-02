@@ -1,0 +1,41 @@
+ID,People,Event,When,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/065,Helen,Helen was not sleeping on the day Julia died,the day Julia died,notAsleep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/067,Helen,Julia's voice was heard on  the day Julia died,the day Julia died,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/068,Helen,Helen heard whistle in the corridor on the day Julia died,the day Julia died,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/069,Helen,Helen heard the metal sound on the day Julia died,the day Julia died,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/074,Helen,Helen supported Julia on the day Julia died,the day Julia died,support,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/080,Helen,Helen called Roylott on the day Julia died,the day Julia died,call,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/081,Helen,"On the day Julia died, Helen met Roylott in the corridor",the day Julia died,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/082,Helen,Helen went to Julia on the day Julia died,the day Julia died,return,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/112,Helen,Helen and Persea Armitage are celebrating the ceremony in the spring,spring,marry,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/117,Helen,Helen looked horrible last night.,last night,scare,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/118,Helen,Last night at midnight Helen heard a low whistle.,last night,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/123,Helen,Helen left the house at dawn.,early morning,leave,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/128,Helen,Helen visit Holmes this morning.,this morning,visit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/289,Helen,Helen sent a signal to Holmes at eleven o'clock.,eleven o'clock,send,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/316,Holmes,Holmes and Watson strain their ears for half an hour.,for half an hour,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/352,Holmes,The whip was found in this bedroom during the daytime.,daytime,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/022,Roylott,Roylott is quick to anger,occasionally,angry,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/052,Roylott,"On the day Julia died, Roylott went to the bedroom",the day Julia died,go,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/084,Roylott,"On the day Julia died, Roylott gave Julia a drink of brandy",the day Julia died,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/154,Roylott,Roylott does not return until evening,evening,return,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/013,mother of Helen,The money is 1000 pounds a year,every year,gain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/014,mother of Helen,Helen's mother died 8 years ago at the Crewe,8 years ago,die,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/032,Julia,Julia died at 30,30 years old,die,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/036,Julia,Julia gets acquainted with Major Navy two years ago at Harrow,2 years ago,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/039,Julia,Julia died two weeks before the wedding ceremony,two weeks before the wedding ceremony,die,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/057,Julia,Julia returns to the bedroom at 11 o'clock,the day Julia died,go,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/071,Julia,Julia came out of the bedroom on the day Julia died,the day Julia died,goOut,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/075,Julia,Julia collapsed on the day Julia died,the day Julia died,fall,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/076,Julia,Julia shook her limbs on the day Julia died,the day Julia died,tremble,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/078,Julia,"On the day Julia died, Julia pointed to Roylott’s bedroom",the day Julia died,point,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/079,Julia,Julia was unable to talk anymore on death day of Julia,the day Julia died,cannotTalk,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/086,Julia,Julia was dead on the day Julia died,the day Julia died,die,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/088,Julia,"On the day Julia died, Julia had one match cinders.",the day Julia died,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/089,Julia,"On the day Julia died, Julia had a box of matches.",the day Julia died,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/103,Julia,Julia was alone in the bedroom on the day Julia died.,the day Julia died,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/107,Roma,"On the day of Julia’s death, Roma was on the premises of the bulding",the day Julia died,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/085,doctor of Stoke Moran,"On the day Julia died, a village doctor examined Julia",the day Julia died,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/110,Percy Armitage,"A month ago, Parsi Armitage asked Helen to marry him.",one month ago,propose,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/112,Percy Armitage,Helen and Persea Armitage are celebrating the ceremony in the spring,spring,marry,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/316,Watson,Holmes and Watson strain their ears for half an hour.,for half an hour,hear,Situation

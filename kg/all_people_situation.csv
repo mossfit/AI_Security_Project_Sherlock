@@ -1,15 +1,21 @@
 ID,People,Event,What,hasPredicate,Type
-http://kgc.knowledge-graph.jp/data/SpeckledBand/055,Julia,Julia suffered from the smell of Indian cigarettes,smell of Indian cigarettes,smell,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/064,Julia,Julia locked the bedroom,Julia’s bedroom,lock,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/070,Julia,Julia opened the key on the day Julia died,Julia’s bedroom,open,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/076,Julia,Julia shook her limbs on the day Julia died,limbs,tremble,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/078,Julia,"On the day Julia died, Julia pointed to Roylott’s bedroom",Roylott’s bedroom,point,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/088,Julia,"On the day Julia died, Julia had one match cinders.",one match cinders,have,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/089,Julia,"On the day Julia died, Julia had a box of matches.",match box,have,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/104,Julia,Julia's body has no scar.,scar,notHave,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/146,Julia,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/286,Julia,Julia could not move the bed.,bed,cannotMove,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/369,Julia,Julia said a speckled band.,speckled band,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/004,Helen,Helen has no money,money,notHave,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/056,Helen,Helen talks about Julia and her wedding,wedding ceremony of Julia,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/067,Helen,Julia's voice was heard on  the day Julia died,voice of Julia,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/068,Helen,Helen heard whistle in the corridor on the day Julia died,whistle,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/069,Helen,Helen heard the metal sound on the day Julia died,metallic sound,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/074,Helen,Helen supported Julia on the day Julia died,Julia,support,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/080,Helen,Helen called Roylott on the day Julia died,Roylott,call,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/118,Helen,Last night at midnight Helen heard a low whistle.,whistle,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/120,Helen,Helen turned on the lamp.,lamp,turnOn,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/121,Helen,Nothing was found in Julia’s bedroom.,something,cannotFind,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/122,Helen,Helen has changed clothes.,clothes,wear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/124,Helen,Helen asked for a motorcycle at the Crown Inn.,two-wheeled coach,call,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/146,Helen,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/187,Helen,Helen closed the gates,shutter,close,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/188,Helen,Helen locked the bedroom.,Julia’s bedroom,lock,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/289,Helen,Helen sent a signal to Holmes at eleven o'clock.,signal,send,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/394,Helen,Helen heard the metal sounds.,metallic sound,hear,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/140,Holmes,Holmes did not respond to Roylott's question.,question of Roylott,notRespond,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/142,Holmes,Holmes has seen the will of Helen's mother.,will of mother of Helen,read,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/143,Holmes,Holmes calculated the current price of the invested capital involved.,price of asset of mother of Helen,calculate,Situation
@@ -77,23 +83,31 @@ http://kgc.knowledge-graph.jp/data/SpeckledBand/386,Roylott,A whistle called sna
 http://kgc.knowledge-graph.jp/data/SpeckledBand/387,Roylott,Roylott gave milk to the snake.,milk,give,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/391,Roylott,Roylott placed the snake in the safe.,snake,put,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/392,Roylott,Roylott closed the safe.,safe,close,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/004,Helen,Helen has no money,money,notHave,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/056,Helen,Helen talks about Julia and her wedding,wedding ceremony of Julia,say,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/067,Helen,Julia's voice was heard on  the day Julia died,voice of Julia,hear,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/068,Helen,Helen heard whistle in the corridor on the day Julia died,whistle,hear,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/069,Helen,Helen heard the metal sound on the day Julia died,metallic sound,hear,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/074,Helen,Helen supported Julia on the day Julia died,Julia,support,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/080,Helen,Helen called Roylott on the day Julia died,Roylott,call,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/118,Helen,Last night at midnight Helen heard a low whistle.,whistle,hear,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/120,Helen,Helen turned on the lamp.,lamp,turnOn,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/121,Helen,Nothing was found in Julia’s bedroom.,something,cannotFind,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/122,Helen,Helen has changed clothes.,clothes,wear,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/124,Helen,Helen asked for a motorcycle at the Crown Inn.,two-wheeled coach,call,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/146,Helen,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/187,Helen,Helen closed the gates,shutter,close,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/188,Helen,Helen locked the bedroom.,Julia’s bedroom,lock,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/289,Helen,Helen sent a signal to Holmes at eleven o'clock.,signal,send,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/394,Helen,Helen heard the metal sounds.,metallic sound,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/012,mother of Helen,Helen's mother was rich,money,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/013,mother of Helen,The money is 1000 pounds a year,1000 GBP,gain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/011,sister,Helen and Julia are sisters,Helen,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/011,sister,Helen and Julia are sisters,Julia,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/035,sister,Helen and Julia are sisters.,Helen,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/035,sister,Helen and Julia are sisters.,Julia,contain,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/055,Julia,Julia suffered from the smell of Indian cigarettes,smell of Indian cigarettes,smell,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/064,Julia,Julia locked the bedroom,Julia’s bedroom,lock,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/070,Julia,Julia opened the key on the day Julia died,Julia’s bedroom,open,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/076,Julia,Julia shook her limbs on the day Julia died,limbs,tremble,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/078,Julia,"On the day Julia died, Julia pointed to Roylott’s bedroom",Roylott’s bedroom,point,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/088,Julia,"On the day Julia died, Julia had one match cinders.",one match cinders,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/089,Julia,"On the day Julia died, Julia had a box of matches.",match box,have,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/104,Julia,Julia's body has no scar.,scar,notHave,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/146,Julia,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/286,Julia,Julia could not move the bed.,bed,cannotMove,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/369,Julia,Julia said a speckled band.,speckled band,say,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/015,mother of sister,Helen's mother yielded money to Roylott,money,give,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/051,man,The garden can be viewed from the bedroom,garden of Roylott,canView,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/085,doctor of Stoke Moran,"On the day Julia died, a village doctor examined Julia",Julia,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/097,coroner,The coroner examined the walls of Julia’s bedroom by hitting them,four walls of Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/099,coroner,The coroner examined floor of Julia’s bedroom specifically,floor of Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/105,coroner,There was no poison in Julia's body.,poison,cannotFind,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/382,coroner,The inspector does not find the snake poison.,poison of snake,notNotice,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/110,Percy Armitage,"A month ago, Parsi Armitage asked Helen to marry him.",marriage,propose,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/150,Watson,Holmes and Watson got off the coach.,coach,getOff,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/270,Watson,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/271,Watson,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation
@@ -111,12 +125,3 @@ http://kgc.knowledge-graph.jp/data/SpeckledBand/327,Watson,"At the moment Holmes
 http://kgc.knowledge-graph.jp/data/SpeckledBand/328,Watson,Watson did not know what Holmes was beating.,snake,cannotSee,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/333,Watson,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation
 http://kgc.knowledge-graph.jp/data/SpeckledBand/340,Watson,Watson has a handgun.,handgun,have,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/051,man,The garden can be viewed from the bedroom,garden of Roylott,canView,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/011,sister,Helen and Julia are sisters,Helen,contain,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/011,sister,Helen and Julia are sisters,Julia,contain,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/035,sister,Helen and Julia are sisters.,Helen,contain,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/035,sister,Helen and Julia are sisters.,Julia,contain,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/097,coroner,The coroner examined the walls of Julia’s bedroom by hitting them,four walls of Julia’s bedroom,examine,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/099,coroner,The coroner examined floor of Julia’s bedroom specifically,floor of Julia’s bedroom,examine,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/105,coroner,There was no poison in Julia's body.,poison,cannotFind,Situation
-http://kgc.knowledge-graph.jp/data/SpeckledBand/382,coroner,The inspector does not find the snake poison.,poison of snake,notNotice,Situation

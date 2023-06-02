@@ -1,0 +1,68 @@
+ID,People,Event,Where,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/008,Helen,Helen lives with Roylott,mansion of Roylott,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/041,Helen,Helen lives on the first floor of one of the buildings,first floor of one building of mansion of Roylott,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/067,Helen,Julia's voice was heard on  the day Julia died,Helen’s bedroom,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/068,Helen,Helen heard whistle in the corridor on the day Julia died,corridor,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/069,Helen,Helen heard the metal sound on the day Julia died,corridor,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/081,Helen,"On the day Julia died, Helen met Roylott in the corridor",corridor,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/117,Helen,Helen looked horrible last night.,Julia’s bedroom,scare,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/118,Helen,Last night at midnight Helen heard a low whistle.,Julia’s bedroom,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/119,Helen,Helen jumped up.,Julia’s bedroom,wakeUp,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/120,Helen,Helen turned on the lamp.,Julia’s bedroom,turnOn,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/121,Helen,Nothing was found in Julia’s bedroom.,Julia’s bedroom,cannotFind,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/122,Helen,Helen has changed clothes.,Julia’s bedroom,wear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/124,Helen,Helen asked for a motorcycle at the Crown Inn.,Crown Inn,call,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/128,Helen,Helen visit Holmes this morning.,Leatherhead station,visit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/150,Holmes,Holmes and Watson got off the coach.,mansion of Roylott,getOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/152,Holmes,Holmes met with Helen as promised.,mansion of Roylott,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/169,Holmes,Holmes walked around the lawn,garden,wander,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/171,Holmes,Holmes investigates the window of the mansion from the outside.,garden,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/207,Holmes,Holmes sat on a chair.,Julia’s bedroom,sit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/207,Holmes,Holmes sat on a chair.,chair,sit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/269,Holmes,Holmes and Watson are in the Crown Inn.,Crown Inn,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/270,Holmes,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,Crown Inn,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/291,Holmes,Holmes and Watson kept quiet.,Julia’s bedroom,keep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/292,Holmes,Holmes and Watson turn off the lights.,Julia’s bedroom,turnOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/295,Holmes,Holmes and Watson do not sleep.,Julia’s bedroom,notSleep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/298,Holmes,Holmes sits on the bed.,bed,sit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/307,Holmes,Holmes and Watson hear the sound of the church bell in the distance.,in the distance,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/352,Holmes,The whip was found in this bedroom during the daytime.,Roylott’s bedroom,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/010,Roylott,Roylott married Helen's mother in India,India,marry,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/042,Roylott,Roylott lives on the first floor of one of the buildings,first floor of one building of mansion of Roylott,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/347,Roylott,Roylott was sitting on the chair.,chair,sit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/379,Roylott,Roylott was working in India.,India,work,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/391,Roylott,Roylott placed the snake in the safe.,safe,put,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/014,mother of Helen,Helen's mother died 8 years ago at the Crewe,Crewe,die,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/034,sister,Sisters went to Harrow,Harrow,go,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/017,Julia,Sisters live with Roylott,mansion of Roylott,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/036,Julia,Julia gets acquainted with Major Navy two years ago at Harrow,Harrow,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/040,Julia,Julia lives on the ground floor of one of the buildings,first floor of one building of mansion of Roylott,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/055,Julia,Julia suffered from the smell of Indian cigarettes,Julia’s bedroom,smell,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/075,Julia,Julia collapsed on the day Julia died,corridor,fall,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/103,Julia,Julia was alone in the bedroom on the day Julia died.,Julia’s bedroom,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/104,Julia,Julia's body has no scar.,body of Julia,notHave,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/286,Julia,Julia could not move the bed.,Julia’s bedroom,cannotMove,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/026,Roma,Roma is lodging on Roylott’s land,garden of Roylott,camp,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/107,Roma,"On the day of Julia’s death, Roma was on the premises of the bulding",garden of Roylott,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/368,Roma,There was Roma on the mansion.,mansion of Roylott,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/031,housekeeper,There is no housekeeper in the mansion,mansion of Roylott,notExist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/033,sister of mother of Helen,Mother's sister lives in Harrow,Harrow,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/185a,man,Helen’s bedroom window cannot pass through people. Julia’s bedroom window cannot pass through people. Roylott's bedroom window cannot pass through people,Roylott’s bedroom,cannotPassThrough,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/185a,man,Helen’s bedroom window cannot pass through people. Julia’s bedroom window cannot pass through people. Roylott's bedroom window cannot pass through people,Julia’s bedroom,cannotPassThrough,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/185a,man,Helen’s bedroom window cannot pass through people. Julia’s bedroom window cannot pass through people. Roylott's bedroom window cannot pass through people,Helen’s bedroom,cannotPassThrough,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/194,man,Nobody can pass through the canopy.,shutter,cannotGoThrough,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/097,coroner,The coroner examined the walls of Julia’s bedroom by hitting them,Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/099,coroner,The coroner examined floor of Julia’s bedroom specifically,Julia’s bedroom,examine,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/105,coroner,There was no poison in Julia's body.,body of Julia,cannotFind,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/111,Percy Armitage,Persea Armitage lives in Crain Water.,Crane Water,live,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/150,Watson,Holmes and Watson got off the coach.,mansion of Roylott,getOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/152,Watson,Holmes met with Helen as promised.,mansion of Roylott,meet,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/269,Watson,Holmes and Watson are in the Crown Inn.,Crown Inn,exist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/270,Watson,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,Crown Inn,see,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/291,Watson,Holmes and Watson kept quiet.,Julia’s bedroom,keep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/292,Watson,Holmes and Watson turn off the lights.,Julia’s bedroom,turnOff,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/295,Watson,Holmes and Watson do not sleep.,Julia’s bedroom,notSleep,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/299,Watson,Watson sits on a chair.,chair,sit,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/307,Watson,Holmes and Watson hear the sound of the church bell in the distance.,in the distance,hear,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/168,craftsman,There are no craftsmen.,right building,notExist,Situation
+http://kgc.knowledge-graph.jp/data/SpeckledBand/282,Sleeping Woman,"After that, the woman who was sleeping on the bed died.",Julia’s bedroom,die,Situation

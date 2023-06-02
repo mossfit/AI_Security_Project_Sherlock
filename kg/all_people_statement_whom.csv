@@ -1,0 +1,4 @@
+ID,People,Event,Whom,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/007,Helen,Helen thanks Holmes,Holmes,pay,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/325,Holmes,"Looked, Watson! Holmes shouts. 'Did you see it?'.",Watson,shout,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/077,Julia,"On the evening of the day Julia died, Julia told Helen, Speckled Band",Helen,say,Statement

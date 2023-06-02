@@ -1,0 +1,9 @@
+ID,People,Event,When,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/261,Helen,Helen says her head aches when Roylott returns.,tonight,say,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/132,Holmes,Holmes travels to Stoke Moran this afternoon.,this afternoon,go,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/259,Holmes,Holmes and Watson stay at night in Helen’s bedroom.,tonight,stay,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/266,Holmes,Holmes and Watson stay overnight in Julia’s bedroom.,tonight,stay,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/263,Roylott,Roylott goes to Roylott’s bedroom at night.,tonight,go,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/132,Watson,Holmes travels to Stoke Moran this afternoon.,this afternoon,go,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/259,Watson,Holmes and Watson stay at night in Helen’s bedroom.,tonight,stay,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/266,Watson,Holmes and Watson stay overnight in Julia’s bedroom.,tonight,stay,Thought

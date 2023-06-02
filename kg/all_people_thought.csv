@@ -1,6 +1,6 @@
 ID,People,Event,What,hasPredicate,Type
-http://kgc.knowledge-graph.jp/data/SpeckledBand/267,Holmes,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought
 http://kgc.knowledge-graph.jp/data/SpeckledBand/264,Helen,"After that, Helen signals Holmes and Watson with lamp.",signal,send,Thought
-http://kgc.knowledge-graph.jp/data/SpeckledBand/267,Watson,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/267,Holmes,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought
 http://kgc.knowledge-graph.jp/data/SpeckledBand/063,Roma,The whistle were blown in the garden by Roma (Helen imagination),whistle,blow,Thought
 http://kgc.knowledge-graph.jp/data/SpeckledBand/278,coroner,"Otherwise, it would have been noticed when the examining officer investigated it.",hole,notNotice,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/267,Watson,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought

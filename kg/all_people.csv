@@ -1,136 +1,218 @@
-ID,People,Event,What,hasPredicate,Type
-055,Julia,Julia suffered from the smell of Indian cigarettes,smell of Indian cigarettes,smell,Situation
-064,Julia,Julia locked the bedroom,Julia’s bedroom,lock,Situation
-070,Julia,Julia opened the key on the day Julia died,Julia’s bedroom,open,Situation
-076,Julia,Julia shook her limbs on the day Julia died,limbs,tremble,Situation
-078,Julia,"On the day Julia died, Julia pointed to Roylott’s bedroom",Roylott’s bedroom,point,Situation
-088,Julia,"On the day Julia died, Julia had one match cinders.",one match cinders,have,Situation
-089,Julia,"On the day Julia died, Julia had a box of matches.",match box,have,Situation
-104,Julia,Julia's body has no scar.,scar,notHave,Situation
-146,Julia,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
-286,Julia,Julia could not move the bed.,bed,cannotMove,Situation
-369,Julia,Julia said a speckled band.,speckled band,say,Situation
-140,Holmes,Holmes did not respond to Roylott's question.,question of Roylott,notRespond,Situation
-142,Holmes,Holmes has seen the will of Helen's mother.,will of mother of Helen,read,Situation
-143,Holmes,Holmes calculated the current price of the invested capital involved.,price of asset of mother of Helen,calculate,Situation
-150,Holmes,Holmes and Watson got off the coach.,coach,getOff,Situation
-171,Holmes,Holmes investigates the window of the mansion from the outside.,window of mansion of Roylott,examine,Situation
-189,Holmes,Holmes carefully observed the vacant window.,window of Julia’s bedroom,examine,Situation
-190,Holmes,Holmes failed to forcibly open the fortress from the outside.,shutter,cannotOpen,Situation
-208,Holmes,Holmes observed every corner of the bedroom,Julia’s bedroom,lookAround,Situation
-213,Holmes,Holmes confirmed the floor.,floor of Julia’s bedroom,confirm,Situation
-214,Holmes,Holmes tugged as hard as he could on the pull of the doorbell,pull of the doorbell,pull,Situation
-219,Holmes,Holmes pulls the pull of the doorbell.,pull of the doorbell,pull,Situation
-232,Holmes,Holmes investigate Roylott's bedroom.,Roylott’s bedroom,examine,Situation
-241,Holmes,Holmes was analyzing them with great interest.,elbow chair,examine,Situation
-241,Holmes,Holmes was analyzing them with great interest.,simple chair,examine,Situation
-241,Holmes,Holmes was analyzing them with great interest.,round table,examine,Situation
-241,Holmes,Holmes was analyzing them with great interest.,safe,examine,Situation
-242,Holmes,Holmes hit the safe lightly.,safe,hit,Situation
-244,Holmes,Holmes lowered a small dish containing milk from the top of the safe.,small dish,takeDown,Situation
-251,Holmes,Holmes considered the milk of a small dish,small dish,consider,Situation
-252,Holmes,Holmes carefully investigated the back part of the chair,back part of chair,examine,Situation
-253,Holmes,Holmes found a small dog whip.,dog whip,find,Situation
-256,Holmes,Holmes suspected a small dog whip.,dog whip,suspect,Situation
-257,Holmes,Holmes has made a plan.,plan,make,Situation
-270,Holmes,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation
-271,Holmes,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation
-274,Holmes,Holmes had anticipated that there were ventilation holes before coming to Stoke Moran.,VentilationHole,forecast,Situation
-291,Holmes,Holmes and Watson kept quiet.,quiet,keep,Situation
-292,Holmes,Holmes and Watson turn off the lights.,lamp,turnOff,Situation
-301,Holmes,Holmes put a thin long cane on the bed.,cane,put,Situation
-302,Holmes,Holmes placed a match box and a candle candle in front of a thin long cane.,match box,put,Situation
-302,Holmes,Holmes placed a match box and a candle candle in front of a thin long cane.,candle,put,Situation
-303,Holmes,"After that, Holmes and Watson turn off the lamp.",lamp,turnOff,Situation
-305,Holmes,Holmes and Watson heard barking from the outside.,cry,hear,Situation
-307,Holmes,Holmes and Watson hear the sound of the church bell in the distance.,church bell,hear,Situation
-308,Holmes,"From the ventilator, light can be seen only for a moment.",light,see,Situation
-310,Holmes,"Then the oil burns, and there is a strong smell that the metal is heated.",smell of oil,smell,Situation
-317,Holmes,"Suddenly, Holmes and Watson listen to a faint sound.",sound,hear,Situation
-323,Holmes,Holmes fires a match.,match,fire,Situation
-324,Holmes,Holmes beat the rope with a cane.,rope of bell,hit,Situation
-327,Holmes,"At the moment Holmes rubbed the match, Holmes and Watson heard a low and clear whistle.",whistle,hear,Situation
-332,Holmes,"After that, Holmes looks at the ventilator.",VentilationHole,see,Situation
-333,Holmes,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation
-352,Holmes,The whip was found in this bedroom during the daytime.,dog whip,see,Situation
-359,Holmes,Holmes said 'a speckled band'.,speckled band,say,Situation
-362,Holmes,Holmes said 'a poisonous ponder'.,poisonous snake,say,Situation
-366,Holmes,Holmes had Roylott’s whip,dog whip of Roylott,have,Situation
-367,Holmes,Holmes locked the snake in the safe with a whip.,snake,putInto,Situation
-371,Holmes,Holmes noted a ventilation hole.,VentilationHole,focus,Situation
-395,Holmes,Holmes heard the sound of a snake.,sound of snake,hear,Situation
-396,Holmes,Holmes hit the snake.,snake,hit,Situation
-016,Roylott,Roylott takes the money,money,gain,Situation
-027,Roylott,Roylott likes Indian animals,Indian animal,like,Situation
-028,Roylott,Roylott buys an animal from India,Indian animal,buy,Situation
-029,Roylott,Roylott keeps a leopard,leopard,have,Situation
-030,Roylott,Roylott keeps baboons,baboon,have,Situation
-038,Roylott,Roylott is not against the engagement,engagement of Julia,notOppose,Situation
-084,Roylott,"On the day Julia died, Roylott gave Julia a drink of brandy",brandy,give,Situation
-139,Roylott,Roylott asked Holmes what Helen discussed.,story of Helen,ask,Situation
-147,Roylott,Roylott will lose money,money,lose,Situation
-294,Roylott,"When sound leaks from the ventilator, it may be noticed.",Holmes,notice,Situation
-354,Roylott,Roylott's eyes were strongly open.,eye,open,Situation
-355,Roylott,Roylott was looking at the corner of the ceiling,corner of ceiling,see,Situation
-377,Roylott,Roylott ordered animals from India.,snake,buy,Situation
-386,Roylott,A whistle called snakes back.,snake,callBack,Situation
-387,Roylott,Roylott gave milk to the snake.,milk,give,Situation
-391,Roylott,Roylott placed the snake in the safe.,snake,put,Situation
-392,Roylott,Roylott closed the safe.,safe,close,Situation
-004,Helen,Helen has no money,money,notHave,Situation
-056,Helen,Helen talks about Julia and her wedding,wedding ceremony of Julia,say,Situation
-067,Helen,Julia's voice was heard on  the day Julia died,voice of Julia,hear,Situation
-068,Helen,Helen heard whistle in the corridor on the day Julia died,whistle,hear,Situation
-069,Helen,Helen heard the metal sound on the day Julia died,metallic sound,hear,Situation
-074,Helen,Helen supported Julia on the day Julia died,Julia,support,Situation
-080,Helen,Helen called Roylott on the day Julia died,Roylott,call,Situation
-118,Helen,Last night at midnight Helen heard a low whistle.,whistle,hear,Situation
-120,Helen,Helen turned on the lamp.,lamp,turnOn,Situation
-121,Helen,Nothing was found in Julia’s bedroom.,something,cannotFind,Situation
-122,Helen,Helen has changed clothes.,clothes,wear,Situation
-124,Helen,Helen asked for a motorcycle at the Crown Inn.,two-wheeled coach,call,Situation
-146,Helen,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation
-187,Helen,Helen closed the gates,shutter,close,Situation
-188,Helen,Helen locked the bedroom.,Julia’s bedroom,lock,Situation
-289,Helen,Helen sent a signal to Holmes at eleven o'clock.,signal,send,Situation
-394,Helen,Helen heard the metal sounds.,metallic sound,hear,Situation
-150,Watson,Holmes and Watson got off the coach.,coach,getOff,Situation
-270,Watson,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation
-271,Watson,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation
-291,Watson,Holmes and Watson kept quiet.,quiet,keep,Situation
-292,Watson,Holmes and Watson turn off the lights.,lamp,turnOff,Situation
-297,Watson,Watson prepares a handgun for use anytime.,handgun,prepare,Situation
-300,Watson,Watson gently places the handgun in the corner of the desk.,handgun,put,Situation
-303,Watson,"After that, Holmes and Watson turn off the lamp.",lamp,turnOff,Situation
-305,Watson,Holmes and Watson heard barking from the outside.,cry,hear,Situation
-307,Watson,Holmes and Watson hear the sound of the church bell in the distance.,church bell,hear,Situation
-308,Watson,"From the ventilator, light can be seen only for a moment.",light,see,Situation
-310,Watson,"Then the oil burns, and there is a strong smell that the metal is heated.",smell of oil,smell,Situation
-317,Watson,"Suddenly, Holmes and Watson listen to a faint sound.",sound,hear,Situation
-327,Watson,"At the moment Holmes rubbed the match, Holmes and Watson heard a low and clear whistle.",whistle,hear,Situation
-328,Watson,Watson did not know what Holmes was beating.,snake,cannotSee,Situation
-333,Watson,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation
-340,Watson,Watson has a handgun.,handgun,have,Situation
-051,man,The garden can be viewed from the bedroom,garden of Roylott,canView,Situation
-011,sister,Helen and Julia are sisters,Helen,contain,Situation
-011,sister,Helen and Julia are sisters,Julia,contain,Situation
-035,sister,Helen and Julia are sisters.,Helen,contain,Situation
-035,sister,Helen and Julia are sisters.,Julia,contain,Situation
-097,coroner,The coroner examined the walls of Julia’s bedroom by hitting them,four walls of Julia’s bedroom,examine,Situation
-099,coroner,The coroner examined floor of Julia’s bedroom specifically,floor of Julia’s bedroom,examine,Situation
-105,coroner,There was no poison in Julia's body.,poison,cannotFind,Situation
-382,coroner,The inspector does not find the snake poison.,poison of snake,notNotice,Situation
-058,Julia,Julia listens to the whistle,whistle,hear,Statement
-062,Julia,The whistle can be heard from Roylott’s bedroom OR garden OR Helen,whistle,hear,Statement
-077,Julia,"On the evening of the day Julia died, Julia told Helen, Speckled Band",speckled band,say,Statement
-275,Julia,Helen's older sister smelled Roylott's cigarette.,Indian cigarettes,smell,Statement
-268,Holmes,Holmes already suspects the culprit.,culprit,suspect,Statement
-006,Helen,Helen gets money within two months,money,get,Statement
-007,Helen,Helen thanks Holmes,money,pay,Statement
-060,Helen,Helen does not listen to the whistl,whistle,notListen,Statement
-260,man,Holmes can see the window of Helen’s bedroom from village inn.,window of Julia’s bedroom,see,Statement
-267,Holmes,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought
-264,Helen,"After that, Helen signals Holmes and Watson with lamp.",signal,send,Thought
-267,Watson,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought
-063,Roma,The whistle were blown in the garden by Roma (Helen imagination),whistle,blow,Thought
-278,coroner,"Otherwise, it would have been noticed when the examining officer investigated it.",hole,notNotice,Thought
+ID,People,Event,What,hasPredicate,Type,When,Where,Whom
+004,Helen,Helen has no money,money,notHave,Situation,,,
+056,Helen,Helen talks about Julia and her wedding,wedding ceremony of Julia,say,Situation,,,Julia
+067,Helen,Julia's voice was heard on  the day Julia died,voice of Julia,hear,Situation,the day Julia died,Helen’s bedroom,
+068,Helen,Helen heard whistle in the corridor on the day Julia died,whistle,hear,Situation,the day Julia died,corridor,
+069,Helen,Helen heard the metal sound on the day Julia died,metallic sound,hear,Situation,the day Julia died,corridor,
+074,Helen,Helen supported Julia on the day Julia died,Julia,support,Situation,the day Julia died,,
+080,Helen,Helen called Roylott on the day Julia died,Roylott,call,Situation,the day Julia died,,
+118,Helen,Last night at midnight Helen heard a low whistle.,whistle,hear,Situation,last night,Julia’s bedroom,
+120,Helen,Helen turned on the lamp.,lamp,turnOn,Situation,,Julia’s bedroom,
+121,Helen,Nothing was found in Julia’s bedroom.,something,cannotFind,Situation,,Julia’s bedroom,
+122,Helen,Helen has changed clothes.,clothes,wear,Situation,,Julia’s bedroom,
+124,Helen,Helen asked for a motorcycle at the Crown Inn.,two-wheeled coach,call,Situation,,Crown Inn,
+146,Helen,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation,,,
+187,Helen,Helen closed the gates,shutter,close,Situation,,,
+188,Helen,Helen locked the bedroom.,Julia’s bedroom,lock,Situation,,,
+289,Helen,Helen sent a signal to Holmes at eleven o'clock.,signal,send,Situation,eleven o'clock,,Holmes
+394,Helen,Helen heard the metal sounds.,metallic sound,hear,Situation,,,
+140,Holmes,Holmes did not respond to Roylott's question.,question of Roylott,notRespond,Situation,,,Roylott
+142,Holmes,Holmes has seen the will of Helen's mother.,will of mother of Helen,read,Situation,,,
+143,Holmes,Holmes calculated the current price of the invested capital involved.,price of asset of mother of Helen,calculate,Situation,,,
+150,Holmes,Holmes and Watson got off the coach.,coach,getOff,Situation,,mansion of Roylott,
+171,Holmes,Holmes investigates the window of the mansion from the outside.,window of mansion of Roylott,examine,Situation,,garden,
+189,Holmes,Holmes carefully observed the vacant window.,window of Julia’s bedroom,examine,Situation,,,
+190,Holmes,Holmes failed to forcibly open the fortress from the outside.,shutter,cannotOpen,Situation,,,
+208,Holmes,Holmes observed every corner of the bedroom,Julia’s bedroom,lookAround,Situation,,,
+213,Holmes,Holmes confirmed the floor.,floor of Julia’s bedroom,confirm,Situation,,,
+214,Holmes,Holmes tugged as hard as he could on the pull of the doorbell,pull of the doorbell,pull,Situation,,,
+219,Holmes,Holmes pulls the pull of the doorbell.,pull of the doorbell,pull,Situation,,,
+232,Holmes,Holmes investigate Roylott's bedroom.,Roylott’s bedroom,examine,Situation,,,
+241,Holmes,Holmes was analyzing them with great interest.,elbow chair,examine,Situation,,,
+241,Holmes,Holmes was analyzing them with great interest.,simple chair,examine,Situation,,,
+241,Holmes,Holmes was analyzing them with great interest.,round table,examine,Situation,,,
+241,Holmes,Holmes was analyzing them with great interest.,safe,examine,Situation,,,
+242,Holmes,Holmes hit the safe lightly.,safe,hit,Situation,,,
+244,Holmes,Holmes lowered a small dish containing milk from the top of the safe.,small dish,takeDown,Situation,,,
+251,Holmes,Holmes considered the milk of a small dish,small dish,consider,Situation,,,
+252,Holmes,Holmes carefully investigated the back part of the chair,back part of chair,examine,Situation,,,
+253,Holmes,Holmes found a small dog whip.,dog whip,find,Situation,,,
+256,Holmes,Holmes suspected a small dog whip.,dog whip,suspect,Situation,,,
+257,Holmes,Holmes has made a plan.,plan,make,Situation,,,
+270,Holmes,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation,,Crown Inn,
+271,Holmes,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation,,,
+274,Holmes,Holmes had anticipated that there were ventilation holes before coming to Stoke Moran.,VentilationHole,forecast,Situation,,,
+291,Holmes,Holmes and Watson kept quiet.,quiet,keep,Situation,,Julia’s bedroom,
+292,Holmes,Holmes and Watson turn off the lights.,lamp,turnOff,Situation,,Julia’s bedroom,
+301,Holmes,Holmes put a thin long cane on the bed.,cane,put,Situation,,,
+302,Holmes,Holmes placed a match box and a candle candle in front of a thin long cane.,match box,put,Situation,,,
+302,Holmes,Holmes placed a match box and a candle candle in front of a thin long cane.,candle,put,Situation,,,
+303,Holmes,"After that, Holmes and Watson turn off the lamp.",lamp,turnOff,Situation,,,
+305,Holmes,Holmes and Watson heard barking from the outside.,cry,hear,Situation,,,
+307,Holmes,Holmes and Watson hear the sound of the church bell in the distance.,church bell,hear,Situation,,in the distance,
+308,Holmes,"From the ventilator, light can be seen only for a moment.",light,see,Situation,,,
+310,Holmes,"Then the oil burns, and there is a strong smell that the metal is heated.",smell of oil,smell,Situation,,,
+317,Holmes,"Suddenly, Holmes and Watson listen to a faint sound.",sound,hear,Situation,,,
+323,Holmes,Holmes fires a match.,match,fire,Situation,,,
+324,Holmes,Holmes beat the rope with a cane.,rope of bell,hit,Situation,,,
+327,Holmes,"At the moment Holmes rubbed the match, Holmes and Watson heard a low and clear whistle.",whistle,hear,Situation,,,
+332,Holmes,"After that, Holmes looks at the ventilator.",VentilationHole,see,Situation,,,
+333,Holmes,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation,,,
+352,Holmes,The whip was found in this bedroom during the daytime.,dog whip,see,Situation,daytime,Roylott’s bedroom,
+359,Holmes,Holmes said 'a speckled band'.,speckled band,say,Situation,,,
+362,Holmes,Holmes said 'a poisonous ponder'.,poisonous snake,say,Situation,,,
+366,Holmes,Holmes had Roylott’s whip,dog whip of Roylott,have,Situation,,,
+367,Holmes,Holmes locked the snake in the safe with a whip.,snake,putInto,Situation,,,
+371,Holmes,Holmes noted a ventilation hole.,VentilationHole,focus,Situation,,,
+395,Holmes,Holmes heard the sound of a snake.,sound of snake,hear,Situation,,,
+396,Holmes,Holmes hit the snake.,snake,hit,Situation,,,
+016,Roylott,Roylott takes the money,money,gain,Situation,,,
+027,Roylott,Roylott likes Indian animals,Indian animal,like,Situation,,,
+028,Roylott,Roylott buys an animal from India,Indian animal,buy,Situation,,,
+029,Roylott,Roylott keeps a leopard,leopard,have,Situation,,,
+030,Roylott,Roylott keeps baboons,baboon,have,Situation,,,
+038,Roylott,Roylott is not against the engagement,engagement of Julia,notOppose,Situation,,,
+084,Roylott,"On the day Julia died, Roylott gave Julia a drink of brandy",brandy,give,Situation,the day Julia died,,Julia
+139,Roylott,Roylott asked Holmes what Helen discussed.,story of Helen,ask,Situation,,,Holmes
+147,Roylott,Roylott will lose money,money,lose,Situation,,,
+294,Roylott,"When sound leaks from the ventilator, it may be noticed.",Holmes,notice,Situation,,,
+354,Roylott,Roylott's eyes were strongly open.,eye,open,Situation,,,
+355,Roylott,Roylott was looking at the corner of the ceiling,corner of ceiling,see,Situation,,,
+377,Roylott,Roylott ordered animals from India.,snake,buy,Situation,,,
+386,Roylott,A whistle called snakes back.,snake,callBack,Situation,,,
+387,Roylott,Roylott gave milk to the snake.,milk,give,Situation,,,snake
+391,Roylott,Roylott placed the snake in the safe.,snake,put,Situation,,safe,
+392,Roylott,Roylott closed the safe.,safe,close,Situation,,,
+012,mother of Helen,Helen's mother was rich,money,have,Situation,,,
+013,mother of Helen,The money is 1000 pounds a year,1000 GBP,gain,Situation,every year,,
+011,sister,Helen and Julia are sisters,Helen,contain,Situation,,,
+011,sister,Helen and Julia are sisters,Julia,contain,Situation,,,
+035,sister,Helen and Julia are sisters.,Helen,contain,Situation,,,
+035,sister,Helen and Julia are sisters.,Julia,contain,Situation,,,
+055,Julia,Julia suffered from the smell of Indian cigarettes,smell of Indian cigarettes,smell,Situation,,Julia’s bedroom,
+064,Julia,Julia locked the bedroom,Julia’s bedroom,lock,Situation,,,
+070,Julia,Julia opened the key on the day Julia died,Julia’s bedroom,open,Situation,,,
+076,Julia,Julia shook her limbs on the day Julia died,limbs,tremble,Situation,the day Julia died,,
+078,Julia,"On the day Julia died, Julia pointed to Roylott’s bedroom",Roylott’s bedroom,point,Situation,the day Julia died,,
+088,Julia,"On the day Julia died, Julia had one match cinders.",one match cinders,have,Situation,the day Julia died,,
+089,Julia,"On the day Julia died, Julia had a box of matches.",match box,have,Situation,the day Julia died,,
+104,Julia,Julia's body has no scar.,scar,notHave,Situation,,body of Julia,
+146,Julia,Helen and Julia can receive an annual salary of £ 250 per person when married.,250 GBP,receive,Situation,,,
+286,Julia,Julia could not move the bed.,bed,cannotMove,Situation,,Julia’s bedroom,
+369,Julia,Julia said a speckled band.,speckled band,say,Situation,,,
+015,mother of sister,Helen's mother yielded money to Roylott,money,give,Situation,,,Roylott
+051,man,The garden can be viewed from the bedroom,garden of Roylott,canView,Situation,,,
+085,doctor of Stoke Moran,"On the day Julia died, a village doctor examined Julia",Julia,examine,Situation,the day Julia died,,
+097,coroner,The coroner examined the walls of Julia’s bedroom by hitting them,four walls of Julia’s bedroom,examine,Situation,,Julia’s bedroom,
+099,coroner,The coroner examined floor of Julia’s bedroom specifically,floor of Julia’s bedroom,examine,Situation,,Julia’s bedroom,
+105,coroner,There was no poison in Julia's body.,poison,cannotFind,Situation,,body of Julia,
+382,coroner,The inspector does not find the snake poison.,poison of snake,notNotice,Situation,,,
+110,Percy Armitage,"A month ago, Parsi Armitage asked Helen to marry him.",marriage,propose,Situation,one month ago,,Helen
+150,Watson,Holmes and Watson got off the coach.,coach,getOff,Situation,,mansion of Roylott,
+270,Watson,Holmes and Watson can see the mansion of Stoke Moran from the Crown Inn.,mansion of Roylott,see,Situation,,Crown Inn,
+271,Watson,Holmes and Watson think that it is unnatural that there are ventilation holes between the bedrooms.,VentilationHole,suspect,Situation,,,
+291,Watson,Holmes and Watson kept quiet.,quiet,keep,Situation,,Julia’s bedroom,
+292,Watson,Holmes and Watson turn off the lights.,lamp,turnOff,Situation,,Julia’s bedroom,
+297,Watson,Watson prepares a handgun for use anytime.,handgun,prepare,Situation,,,
+300,Watson,Watson gently places the handgun in the corner of the desk.,handgun,put,Situation,,,
+303,Watson,"After that, Holmes and Watson turn off the lamp.",lamp,turnOff,Situation,,,
+305,Watson,Holmes and Watson heard barking from the outside.,cry,hear,Situation,,,
+307,Watson,Holmes and Watson hear the sound of the church bell in the distance.,church bell,hear,Situation,,in the distance,
+308,Watson,"From the ventilator, light can be seen only for a moment.",light,see,Situation,,,
+310,Watson,"Then the oil burns, and there is a strong smell that the metal is heated.",smell of oil,smell,Situation,,,
+317,Watson,"Suddenly, Holmes and Watson listen to a faint sound.",sound,hear,Situation,,,
+327,Watson,"At the moment Holmes rubbed the match, Holmes and Watson heard a low and clear whistle.",whistle,hear,Situation,,,
+328,Watson,Watson did not know what Holmes was beating.,snake,cannotSee,Situation,,,
+333,Watson,"At that time, Holmes and Watson listen to the unearthly scream.",scream,hear,Situation,,,
+340,Watson,Watson has a handgun.,handgun,have,Situation,,,
+006,Helen,Helen gets money within two months,money,get,Statement,within 2 months,within 2 months,
+007,Helen,Helen thanks Holmes,money,pay,Statement,,,Holmes
+060,Helen,Helen does not listen to the whistl,whistle,notListen,Statement,,,
+268,Holmes,Holmes already suspects the culprit.,culprit,suspect,Statement,,,
+058,Julia,Julia listens to the whistle,whistle,hear,Statement,,,
+062,Julia,The whistle can be heard from Roylott’s bedroom OR garden OR Helen,whistle,hear,Statement,,,
+077,Julia,"On the evening of the day Julia died, Julia told Helen, Speckled Band",speckled band,say,Statement,the day Julia died,the day Julia died,Helen
+275,Julia,Helen's older sister smelled Roylott's cigarette.,Indian cigarettes,smell,Statement,,,
+260,man,Holmes can see the window of Helen’s bedroom from village inn.,window of Julia’s bedroom,see,Statement,,,
+264,Helen,"After that, Helen signals Holmes and Watson with lamp.",signal,send,Thought,,,Holmes
+267,Holmes,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought,,,
+063,Roma,The whistle were blown in the garden by Roma (Helen imagination),whistle,blow,Thought,,garden of Roylott,
+278,coroner,"Otherwise, it would have been noticed when the examining officer investigated it.",hole,notNotice,Thought,,,
+267,Watson,Holmes and Watson will find the cause of the troubled sound.,reason of sound,examine,Thought,,,
+065,Helen,Helen was not sleeping on the day Julia died,,notAsleep,Situation,the day Julia died,,
+081,Helen,"On the day Julia died, Helen met Roylott in the corridor",,meet,Situation,the day Julia died,corridor,Roylott
+082,Helen,Helen went to Julia on the day Julia died,,return,Situation,the day Julia died,,
+112,Helen,Helen and Persea Armitage are celebrating the ceremony in the spring,,marry,Situation,spring,,
+117,Helen,Helen looked horrible last night.,,scare,Situation,last night,Julia’s bedroom,
+123,Helen,Helen left the house at dawn.,,leave,Situation,early morning,,
+128,Helen,Helen visit Holmes this morning.,,visit,Situation,this morning,Leatherhead station,
+316,Holmes,Holmes and Watson strain their ears for half an hour.,,hear,Situation,for half an hour,,
+022,Roylott,Roylott is quick to anger,,angry,Situation,occasionally,,
+052,Roylott,"On the day Julia died, Roylott went to the bedroom",,go,Situation,the day Julia died,,
+154,Roylott,Roylott does not return until evening,,return,Situation,evening,,
+014,mother of Helen,Helen's mother died 8 years ago at the Crewe,,die,Situation,8 years ago,Crewe,
+032,Julia,Julia died at 30,,die,Situation,30 years old,,
+036,Julia,Julia gets acquainted with Major Navy two years ago at Harrow,,meet,Situation,2 years ago,Harrow,lieutenant commander
+039,Julia,Julia died two weeks before the wedding ceremony,,die,Situation,two weeks before the wedding ceremony,,
+057,Julia,Julia returns to the bedroom at 11 o'clock,,go,Situation,the day Julia died,,
+071,Julia,Julia came out of the bedroom on the day Julia died,,goOut,Situation,the day Julia died,,
+075,Julia,Julia collapsed on the day Julia died,,fall,Situation,the day Julia died,corridor,
+079,Julia,Julia was unable to talk anymore on death day of Julia,,cannotTalk,Situation,the day Julia died,,
+086,Julia,Julia was dead on the day Julia died,,die,Situation,the day Julia died,,
+103,Julia,Julia was alone in the bedroom on the day Julia died.,,exist,Situation,the day Julia died,Julia’s bedroom,
+107,Roma,"On the day of Julia’s death, Roma was on the premises of the bulding",,exist,Situation,the day Julia died,garden of Roylott,
+112,Percy Armitage,Helen and Persea Armitage are celebrating the ceremony in the spring,,marry,Situation,spring,,
+316,Watson,Holmes and Watson strain their ears for half an hour.,,hear,Situation,for half an hour,,
+005,Helen,Helen gets married within two months,,marry,Statement,within 2 months,within 2 months,
+133,Roylott,Roylott travels to London today.,,go,Statement,today,today,
+134,Roylott,Roylott is out of the mansion today.,,notExist,Statement,today,today,
+261,Helen,Helen says her head aches when Roylott returns.,,say,Thought,tonight,,Roylott
+132,Holmes,Holmes travels to Stoke Moran this afternoon.,,go,Thought,this afternoon,Stoke Moran,
+259,Holmes,Holmes and Watson stay at night in Helen’s bedroom.,,stay,Thought,tonight,Julia’s bedroom,
+266,Holmes,Holmes and Watson stay overnight in Julia’s bedroom.,,stay,Thought,tonight,Julia’s bedroom,
+263,Roylott,Roylott goes to Roylott’s bedroom at night.,,go,Thought,tonight,,
+132,Watson,Holmes travels to Stoke Moran this afternoon.,,go,Thought,this afternoon,Stoke Moran,
+259,Watson,Holmes and Watson stay at night in Helen’s bedroom.,,stay,Thought,tonight,Julia’s bedroom,
+266,Watson,Holmes and Watson stay overnight in Julia’s bedroom.,,stay,Thought,tonight,Julia’s bedroom,
+008,Helen,Helen lives with Roylott,,live,Situation,,mansion of Roylott,
+041,Helen,Helen lives on the first floor of one of the buildings,,live,Situation,,first floor of one building of mansion of Roylott,
+119,Helen,Helen jumped up.,,wakeUp,Situation,,Julia’s bedroom,
+152,Holmes,Holmes met with Helen as promised.,,meet,Situation,,mansion of Roylott,Helen
+169,Holmes,Holmes walked around the lawn,,wander,Situation,,garden,
+207,Holmes,Holmes sat on a chair.,,sit,Situation,,Julia’s bedroom,
+207,Holmes,Holmes sat on a chair.,,sit,Situation,,chair,
+269,Holmes,Holmes and Watson are in the Crown Inn.,,exist,Situation,,Crown Inn,
+295,Holmes,Holmes and Watson do not sleep.,,notSleep,Situation,,Julia’s bedroom,
+298,Holmes,Holmes sits on the bed.,,sit,Situation,,bed,
+010,Roylott,Roylott married Helen's mother in India,,marry,Situation,,India,mother of Helen
+042,Roylott,Roylott lives on the first floor of one of the buildings,,live,Situation,,first floor of one building of mansion of Roylott,
+347,Roylott,Roylott was sitting on the chair.,,sit,Situation,,chair,
+379,Roylott,Roylott was working in India.,,work,Situation,,India,
+034,sister,Sisters went to Harrow,,go,Situation,,Harrow,
+017,Julia,Sisters live with Roylott,,live,Situation,,mansion of Roylott,
+040,Julia,Julia lives on the ground floor of one of the buildings,,live,Situation,,first floor of one building of mansion of Roylott,
+026,Roma,Roma is lodging on Roylott’s land,,camp,Situation,,garden of Roylott,
+368,Roma,There was Roma on the mansion.,,exist,Situation,,mansion of Roylott,
+031,housekeeper,There is no housekeeper in the mansion,,notExist,Situation,,mansion of Roylott,
+033,sister of mother of Helen,Mother's sister lives in Harrow,,live,Situation,,Harrow,
+185a,man,Helen’s bedroom window cannot pass through people. Julia’s bedroom window cannot pass through people. Roylott's bedroom window cannot pass through people,,cannotPassThrough,Situation,,Roylott’s bedroom,
+185a,man,Helen’s bedroom window cannot pass through people. Julia’s bedroom window cannot pass through people. Roylott's bedroom window cannot pass through people,,cannotPassThrough,Situation,,Julia’s bedroom,
+185a,man,Helen’s bedroom window cannot pass through people. Julia’s bedroom window cannot pass through people. Roylott's bedroom window cannot pass through people,,cannotPassThrough,Situation,,Helen’s bedroom,
+194,man,Nobody can pass through the canopy.,,cannotGoThrough,Situation,,shutter,
+111,Percy Armitage,Persea Armitage lives in Crain Water.,,live,Situation,,Crane Water,
+152,Watson,Holmes met with Helen as promised.,,meet,Situation,,mansion of Roylott,Helen
+269,Watson,Holmes and Watson are in the Crown Inn.,,exist,Situation,,Crown Inn,
+295,Watson,Holmes and Watson do not sleep.,,notSleep,Situation,,Julia’s bedroom,
+299,Watson,Watson sits on a chair.,,sit,Situation,,chair,
+168,craftsman,There are no craftsmen.,,notExist,Situation,,right building,
+282,Sleeping Woman,"After that, the woman who was sleeping on the bed died.",,die,Situation,,Julia’s bedroom,
+094,Helen,Helen testified that the door was locked from inside Julia’s bedroom,,testify,Situation,,,coroner
+131,Holmes,Holmes suggested Helen to go to Stoke Moran today.,,propose,Situation,,,Helen
+155,Holmes,Holmes explained to Helen.,,explain,Situation,,,Helen
+258,Holmes,Holmes ordered Helen.,,instruct,Situation,,,Helen
+021,Roylott,Roylott fights with the villager,,fight,Situation,,,villager of Stoke Moran
+138,Roylott,Roylott traced Helen.,,trace,Situation,,,Helen
+037,Julia,Julia was engaged to Major Navy,,engage,Situation,,,lieutenant commander
+090,coroner,The investigator heavily inspected Roylott,,inspect,Situation,,,Roylott
+325,Holmes,"Looked, Watson! Holmes shouts. 'Did you see it?'.",,shout,Statement,,,Watson
+264,Helen,"After that, Helen signals Holmes and Watson with lamp.",,send,Thought,,,Watson

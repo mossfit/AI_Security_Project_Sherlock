@@ -1,0 +1,4 @@
+ID,People,Event,Whom,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/261,Helen,Helen says her head aches when Roylott returns.,Roylott,say,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/264,Helen,"After that, Helen signals Holmes and Watson with lamp.",Holmes,send,Thought
+http://kgc.knowledge-graph.jp/data/SpeckledBand/264,Helen,"After that, Helen signals Holmes and Watson with lamp.",Watson,send,Thought

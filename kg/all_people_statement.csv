@@ -1,10 +1,10 @@
 ID,People,Event,What,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/006,Helen,Helen gets money within two months,money,get,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/007,Helen,Helen thanks Holmes,money,pay,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/060,Helen,Helen does not listen to the whistl,whistle,notListen,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/268,Holmes,Holmes already suspects the culprit.,culprit,suspect,Statement
 http://kgc.knowledge-graph.jp/data/SpeckledBand/058,Julia,Julia listens to the whistle,whistle,hear,Statement
 http://kgc.knowledge-graph.jp/data/SpeckledBand/062,Julia,The whistle can be heard from Roylott’s bedroom OR garden OR Helen,whistle,hear,Statement
 http://kgc.knowledge-graph.jp/data/SpeckledBand/077,Julia,"On the evening of the day Julia died, Julia told Helen, Speckled Band",speckled band,say,Statement
 http://kgc.knowledge-graph.jp/data/SpeckledBand/275,Julia,Helen's older sister smelled Roylott's cigarette.,Indian cigarettes,smell,Statement
-http://kgc.knowledge-graph.jp/data/SpeckledBand/268,Holmes,Holmes already suspects the culprit.,culprit,suspect,Statement
-http://kgc.knowledge-graph.jp/data/SpeckledBand/006,Helen,Helen gets money within two months,money,get,Statement
-http://kgc.knowledge-graph.jp/data/SpeckledBand/007,Helen,Helen thanks Holmes,money,pay,Statement
-http://kgc.knowledge-graph.jp/data/SpeckledBand/060,Helen,Helen does not listen to the whistl,whistle,notListen,Statement
 http://kgc.knowledge-graph.jp/data/SpeckledBand/260,man,Holmes can see the window of Helen’s bedroom from village inn.,window of Julia’s bedroom,see,Statement

@@ -1,0 +1,6 @@
+ID,People,Event,Where,hasPredicate,Type
+http://kgc.knowledge-graph.jp/data/SpeckledBand/005,Helen,Helen gets married within two months,within 2 months,marry,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/006,Helen,Helen gets money within two months,within 2 months,get,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/133,Roylott,Roylott travels to London today.,today,go,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/134,Roylott,Roylott is out of the mansion today.,today,notExist,Statement
+http://kgc.knowledge-graph.jp/data/SpeckledBand/077,Julia,"On the evening of the day Julia died, Julia told Helen, Speckled Band",the day Julia died,say,Statement
